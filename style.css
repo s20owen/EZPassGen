@@ -4,15 +4,18 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-     /*ios specific */
-    -webkit-user-select: none;
-    -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
-    
+    /*ios specific */
+   -webkit-user-select: none;
+   -webkit-tap-highlight-color: transparent;   
+   -webkit-touch-callout: none;       
 }
 body{
     background-color: dodgerblue;
     color: white;
+}
+
+.container{
+    background-color: lightskyblue;
 }
 
 
